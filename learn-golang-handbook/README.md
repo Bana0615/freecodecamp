@@ -2,19 +2,19 @@
 
 [Link](https://www.freecodecamp.org/news/learn-golang-handbook)
 
-- [x] Chapter 1
-- [x] Chapter 2
-- [x] Chapter 3
-- [x] Chapter 4
-- [x] Chapter 5
-- [x] Chapter 6
-- [x] Chapter 7
-- [x] Chapter 8
-- [x] Chapter 9
-- [x] Chapter 10
-- [x] Chapter 11
-- Chapter 12
-- Chapter 13
-- Chapter 14
-- Chapter 15
-- Chapter 16
+- [x] Chapter 1 – Why Learn Go?
+- [x] Chapter 2 - How to Compile Go Code
+- [x] Chapter 3 – Variables in Go
+- [x] Chapter 4 – Functions in Go
+- [x] Chapter 5 – Structs in Go
+- [x] Chapter 6 – Interfaces in Go
+- [x] Chapter 7 – Errors in Go
+- [x] Chapter 8 – Loops in Go
+- [x] Chapter 9 – Arrays and Slices in Go
+- [x] Chapter 10 – Maps in Go
+- [x] Chapter 11 – Advanced Functions in Go
+- [x] Chapter 12 - Pointers in Go
+- Chapter 13 – Local Development Environment in Go
+- Chapter 14 – Channels in Go
+- Chapter 15 – Mutexes in Go
+- Chapter 16 – Generics in Go
