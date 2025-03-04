@@ -14,7 +14,7 @@
 - [x] Chapter 10 – Maps in Go
 - [x] Chapter 11 – Advanced Functions in Go
 - [x] Chapter 12 - Pointers in Go
-- Chapter 13 – Local Development Environment in Go
+- [x] Chapter 13 – Local Development Environment in Go
 - Chapter 14 – Channels in Go
 - Chapter 15 – Mutexes in Go
 - Chapter 16 – Generics in Go
