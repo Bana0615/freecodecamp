@@ -4,5 +4,5 @@
 
 - [x] Cat Photo App
 - [x] Cafe Menu
-- [x] Set of Colored Markers
-- Registration Form
+- [x] Learn CSS Colors by Building a Set of Colored Markers
+- [x] Registration Form
