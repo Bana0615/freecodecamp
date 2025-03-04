@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <h1 id="title">Survey Form</h1>
+    <p id="description">survey form description</p>
+    <form id="survey-form">
+      <label id="name-label" for="name"
+        >Name: <input id="name" type="text" placeholder="Name" required
+      /></label>
+      <label id="email-label" for="email"
+        >Email: <input id="email" type="email" placeholder="Email" required
+      /></label>
+      <label id="number-label" for="number"
+        >Number:
+        <input id="number" type="number" min="1" max="120" placeholder="0"
+      /></label>
+      <label for="dropdown"
+        >Dropdown:
+        <select id="dropdown">
+          <option value="1">Option 1</option>
+          <option value="2">Option 2</option>
+        </select>
+      </label>
+      <label for="personal-account"
+        ><input
+          id="personal-account"
+          type="radio"
+          name="account-type"
+          class="inline"
+          value="personal"
+          checked
+        />
+        Personal</label
+      >
+      <label for="business-account"
+        ><input
+          id="business-account"
+          type="radio"
+          name="account-type"
+          value="business"
+          class="inline"
+        />
+        Business</label
+      >
+
+      <input
+        id="loving"
+        type="checkbox"
+        name="personality"
+        value="loving"
+        checked
+      />
+      <label for="loving">Loving</label>
+      <input id="lazy" type="checkbox" name="personality" value="lazy" />
+      <label for="lazy">Lazy</label>
+      <input
+        id="energetic"
+        type="checkbox"
+        name="personality"
+        value="energetic"
+      />
+      <label for="energetic">Energetic</label>
+      <label for="bio">
+        Provide a bio:
+        <textarea
+          id="bio"
+          name="bio"
+          rows="3"
+          cols="30"
+          placeholder="I like coding on the beach..."
+        ></textarea>
+      </label>
+      <input id="submit" type="submit" value="Submit" />
+    </form>
+  </body>
+</html>
