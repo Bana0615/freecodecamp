@@ -4,5 +4,5 @@
 
 - [x] Cat Photo App
 - [x] Cafe Menu
-- Set of Colored Markers
+- [x] Set of Colored Markers
 - Registration Form
