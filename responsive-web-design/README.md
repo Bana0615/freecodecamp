@@ -21,6 +21,6 @@
 ## Section 3
 
 - [x] [Learn More About CSS Pseudo Selectors by Building A Balance Sheet](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet)
-- [Learn Intermediate CSS by Building a Cat Painting]()
+- [x] [Learn Intermediate CSS by Building a Cat Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-cat-painting)
 - [x] [Learn Responsive Web Design by Building a Piano](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-responsive-web-design-by-building-a-piano)
 - Technical Documentation Page
