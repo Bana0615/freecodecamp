@@ -17,3 +17,10 @@
 - [x] [Learn Typography by Building a Nutrition Label](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label)
 - [x] [Learn Accessibility by Building a Quiz](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz)
 - [x] Tribute Page
+
+## Section 3
+
+- [x] [Learn More About CSS Pseudo Selectors by Building A Balance Sheet](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet)
+- [Learn Intermediate CSS by Building a Cat Painting]()
+- [Learn Responsive Web Design by Building a Piano]()
+- Technical Documentation Page
