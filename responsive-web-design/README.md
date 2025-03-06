@@ -4,7 +4,7 @@
 
 ## Section 1
 
-- [x] [Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app)
+- [x] [Cat Photo App](/responsive-web-design/section-1/cat-photo-app.html) - [Lesson](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app)
 - [x] [Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu)
 - [x] [Learn CSS Colors by Building a Set of Colored Markers](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers)
 - [x] [Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form)
