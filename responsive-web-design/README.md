@@ -4,11 +4,11 @@
 
 ## Section 1
 
-- [x] [Cat Photo App](/responsive-web-design/section-1/cat-photo-app.html) - [Lesson](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app)
-- [x] [Cafe Menu](/responsive-web-design/section-1/cafe-menu/index.html) - [Lesson](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu)
+- [x] [Cat Photo App](/responsive-web-design/section-1/cat-photo-app) - [Lesson](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app)
+- [x] [Cafe Menu](/responsive-web-design/section-1/cafe-menu/index) - [Lesson](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu)
 - [x] [Learn CSS Colors by Building a Set of Colored Markers](/responsive-web-design/section-1/learn-css-colors-by-building-a-set-of-colored-markers/index.html) - [Lesson](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers)
 - [x] [Registration Form](/responsive-web-design/section-1/learn-html-forms-by-building-a-registration-form/index) - [Lesson](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form)
-- [x] Survey Form Project
+- [x] [Survey Form Project](/responsive-web-design/section-1/build-a-survey-form-project/index)
 
 ## Section 2
 
