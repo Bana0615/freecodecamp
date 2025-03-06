@@ -2,7 +2,7 @@
 
 [Link](https://www.freecodecamp.org/news/learn-golang-handbook)
 
-- [x] Chapter 1 – Why Learn Go?
+- [x] [Chapter 1 – Why Learn Go?](https://raw.githubusercontent.com/Bana0615/freecodecamp/refs/heads/main/learn-golang-handbook/chapter-1/main.go)
 - [x] Chapter 2 - How to Compile Go Code
 - [x] Chapter 3 – Variables in Go
 - [x] Chapter 4 – Functions in Go
