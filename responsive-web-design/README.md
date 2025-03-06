@@ -23,4 +23,10 @@
 - [x] [Learn More About CSS Pseudo Selectors by Building A Balance Sheet](/responsive-web-design/section-3/learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet/index) - [Lesson](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet)
 - [x] [Learn Intermediate CSS by Building a Cat Painting](/responsive-web-design/section-3/learn-intermediate-css-by-building-a-cat-painting/index) - [Lesson](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-cat-painting)
 - [x] [Learn Responsive Web Design by Building a Piano](/responsive-web-design/section-3/learn-responsive-web-design-by-building-a-piano/index) - [Lesson](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-responsive-web-design-by-building-a-piano)
-- Technical Documentation Page
+- [x] [Technical Documentation Page](/responsive-web-design/section-3/build-a-technical-documentation-page-project/index)
+
+## Section 4
+
+- [Learn CSS Variables by Building a City Skyline]() - [Lesson](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline/)
+- [Learn CSS Grid by Building a Magazine]() - [Lesson](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine)
+- [Product Landing Page]()
