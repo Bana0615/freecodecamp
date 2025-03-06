@@ -33,6 +33,6 @@
 
 ## Section 5
 
-- [Learn CSS Animation by Building a Ferris Wheel](/responsive-web-design/section-5/learn-css-animation-by-building-a-ferris-wheel/index) - [Lesson](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel)
+- [x] [Learn CSS Animation by Building a Ferris Wheel](/responsive-web-design/section-5/learn-css-animation-by-building-a-ferris-wheel/index) - [Lesson](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel)
 - [Learn CSS Transforms by Building a Penguin](/responsive-web-design/section-5/learn-css-transforms-by-building-a-penguin/index) - [Lesson](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin)
 - [Personal Portfolio Webpage](/responsive-web-design/section-5/build-a-personal-portfolio-webpage-project/index)
