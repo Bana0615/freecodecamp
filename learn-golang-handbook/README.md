@@ -15,6 +15,6 @@
 - [x] [Chapter 11 – Advanced Functions in Go](https://raw.githubusercontent.com/Bana0615/freecodecamp/refs/heads/main/learn-golang-handbook/chapter-11/main.go)
 - [x] [Chapter 12 - Pointers in Go](https://raw.githubusercontent.com/Bana0615/freecodecamp/refs/heads/main/learn-golang-handbook/chapter-12/main.go)
 - [x] [Chapter 13 – Local Development Environment in Go](https://raw.githubusercontent.com/Bana0615/freecodecamp/refs/heads/main/learn-golang-handbook/chapter-13/main.go)
-- Chapter 14 – Channels in Go
+- [x] [Chapter 14 – Channels in Go](https://raw.githubusercontent.com/Bana0615/freecodecamp/refs/heads/main/learn-golang-handbook/chapter-14/main.go)
 - Chapter 15 – Mutexes in Go
 - Chapter 16 – Generics in Go
