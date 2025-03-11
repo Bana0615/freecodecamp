@@ -17,4 +17,4 @@
 - [x] [Chapter 13 – Local Development Environment in Go](https://raw.githubusercontent.com/Bana0615/freecodecamp/refs/heads/main/learn-golang-handbook/chapter-13/main.go)
 - [x] [Chapter 14 – Channels in Go](https://raw.githubusercontent.com/Bana0615/freecodecamp/refs/heads/main/learn-golang-handbook/chapter-14/main.go)
 - [x] [Chapter 15 – Mutexes in Go](https://raw.githubusercontent.com/Bana0615/freecodecamp/refs/heads/main/learn-golang-handbook/chapter-15/main.go)
-- Chapter 16 – Generics in Go
+- [x] [Chapter 16 – Generics in Go](https://raw.githubusercontent.com/Bana0615/freecodecamp/refs/heads/main/learn-golang-handbook/chapter-16/main.go)
